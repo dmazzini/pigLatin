@@ -8,8 +8,8 @@ Pig Latin es una forma de alterar las palabras en inglés. Las reglas son las si
 
 ## Instrucciones
 - Crear un nuevo repositorio utilizando este repositorio como template (Boton: use this template).
-- Editar el código de la función definida en el archivo index.js con un algoritmo que permita obtener los resultados esperados en los test.
-- Ejecutar los test validando que todos resulten exitosos
+- Editar el código del método pigLatin definido en la clase PigLatin con un algoritmo que permita obtener los resultados esperados en los test.
+- Ejecutar los test validando que todos resulten exitosos.
 
 ## Ejecutar Pruebas
 

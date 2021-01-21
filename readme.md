@@ -13,15 +13,10 @@ Pig Latin es una forma de alterar las palabras en inglés. Las reglas son las si
 
 ## Ejecutar Pruebas
 
-Instalar dependencias (mocha)
-```
-npm install
-```
+Importar como proyecto Maven desde IDE (sugerencia Eclipse o Intellij)
 
-Ejecutar test
-```
-npm run test
-```
+Run as JUnit Test
+
 ## Entrada
 
 ##### Parámetro 1
